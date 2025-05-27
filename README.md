@@ -1,5 +1,8 @@
 # NMC Drone Club supporting documents
-These notes are aiming to help students participating in NMC Drone Club to build basic knowledge of how a fixed-wing drone would work.
+This repository is aiming to help students participating in NMC Drone Club maintain a basic knowledge of how a fixed-wing drone would work. 
+For club members struggling to build your drone, the notes folder also includes visual representation of each part of the fixed-wing drone we are making.
 
-Our website: ( )
+Our website: https://sites.google.com/view/nmc-drone-club/
+
+
 
