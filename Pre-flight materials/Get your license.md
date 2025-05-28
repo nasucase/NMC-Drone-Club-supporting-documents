@@ -1,4 +1,4 @@
-# Victor's Simplified guide on acquiring your Basic Operations Drone Pilot's License
+# Victor's simplified guide on acquiring your Basic Operations Drone Pilot's License
 
 1. Read through [this](https://tc.canada.ca/en/aviation/drone-safety/drone-pilot-licensing/getting-drone-pilot-certificate)
 
