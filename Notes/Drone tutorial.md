@@ -77,6 +77,97 @@ step by step
 
 <img width="494" alt="image" src="https://github.com/user-attachments/assets/fdd8ed42-d7bb-476d-bb72-5b210e5f999b" />
 
+<img width="829" alt="image" src="https://github.com/user-attachments/assets/4ae5ae01-cc9e-400d-99d7-41287914f8de" />
+
+<img width="474" alt="image" src="https://github.com/user-attachments/assets/6d58e936-3aa9-4fca-82cc-8863b4ab4676" />
+
+<img width="474" alt="image" src="https://github.com/user-attachments/assets/d4783cbd-c364-45a5-8c0b-b2fce09e3fbe" />
+
+<img width="673" alt="image" src="https://github.com/user-attachments/assets/03395711-da11-42f9-aec6-fe510107798b" />
+
+<img width="673" alt="image" src="https://github.com/user-attachments/assets/cdc19a78-5dca-4174-94c6-4005a7f8920d" />
+
+<img width="673" alt="image" src="https://github.com/user-attachments/assets/4a6a5ac1-cf41-4a0b-b406-2c0e1a4e4ee2" />
+
+### 4. Back fuselage
+
+![](https://github.com/user-attachments/assets/1209c67e-0a3b-4e5a-a1eb-eda02734a8e5)
+
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/390e306c-ade6-427b-b396-c1bd0b22cd20" />
+
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/3bc6215d-c317-40c9-adf6-b6073a14489b" />
+
+### 5. Vertical stablizer 
+
+![](https://github.com/user-attachments/assets/44fa064b-d4b7-429b-a99d-6a4197af2bd7)
+
+<img width="899" alt="image" src="https://github.com/user-attachments/assets/3eaf35fe-6ed6-4191-bfce-93a9c136ead4" />
+
+### 6. Horizontal stablizer & lifter
+
+![](https://github.com/user-attachments/assets/614ecfb8-6dec-46c0-87d9-6e5744ccfd55)
+
+<img width="899" alt="image" src="https://github.com/user-attachments/assets/b28fbc94-a5f7-4c0b-befc-96503cf98277" />
+
+<img width="775" alt="image" src="https://github.com/user-attachments/assets/0cd77df5-13b6-47fb-af92-51656b8fefc9" />
+
+#### same servo setup
+
+<img width="775" alt="image" src="https://github.com/user-attachments/assets/a03e4595-5e4c-492b-a656-7ad82f4b73a6" />
+
+Assemble
+
+<img width="775" alt="image" src="https://github.com/user-attachments/assets/a080ead2-156b-46a7-8ca8-a8276aac513c" />
+
+<img width="775" alt="image" src="https://github.com/user-attachments/assets/56025d2a-fe9e-44d1-89ff-a39b15181cdc" />
+
+### 7. Landing gear
+
+![](https://github.com/user-attachments/assets/aff0822f-871f-4212-b3ca-faa663ce382b)
+
+<img width="897" alt="image" src="https://github.com/user-attachments/assets/0934f4fd-edd2-4367-bf88-30de09ce44b8" />
+
+<img width="897" alt="image" src="https://github.com/user-attachments/assets/903c0200-c050-4f9f-ad43-827025527a2a" />
+
+<img width="366" alt="image" src="https://github.com/user-attachments/assets/76575507-2ae6-4d7b-bd22-d0bc03b73528" />
+
+<img width="366" alt="image" src="https://github.com/user-attachments/assets/36c83d13-453f-4656-9d04-633a729972dc" />
+
+<img width="366" alt="image" src="https://github.com/user-attachments/assets/be8da950-2a3a-448d-8c2f-583483f354d1" />
+
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/cf62e108-feea-4f2e-85ed-fb38d5b477e1" />
+
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/b97ee56d-4859-412a-8f66-ae02752c72c6" />
+
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/a50c00fa-92ac-4c82-9701-9a6caaa5fa6c" />
+
+> #### Optional: make a cone attached to the end of the wheel
+
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/a1c53e2e-98c3-4a5f-a3a7-25ca853c08ff" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
